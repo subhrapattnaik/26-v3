@@ -16,3 +16,11 @@ execute the code after 2 seconds; setTimout() function
 executes a code after a certain time interval.
 
 
+Inside the function we’ll use Matter.World.remove() to
+remove the boat from the world and use delete method to
+delete the boat from the array.
+
+We’ll write the similar remove() function inside the
+cannonball class as we also need to remove the
+cannonball from the screen.
+
