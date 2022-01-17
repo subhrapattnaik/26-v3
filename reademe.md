@@ -11,3 +11,8 @@ a value.
 
 
 
+We’ll add this code inside the setTimeout() function to
+execute the code after 2 seconds; setTimout() function
+executes a code after a certain time interval.
+
+
